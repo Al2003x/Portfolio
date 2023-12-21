@@ -13,7 +13,6 @@ preloadImages(['winter', 'spring', 'summer', 'autumn']);
 burger();
 scrollUp();
 changeGallery();
-hoverBubbleBtnsEffect();
 openModalMessage();
 videoPlayer();
 
